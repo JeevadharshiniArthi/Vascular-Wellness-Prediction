@@ -1,2 +1,10 @@
-# Vascular-Wellness-Prediction
-The objective of the project was to identify the most effective algorithm for accurately predicting vascular wellness. This involved applying various machine learning algorithms such as logistic regression, decision trees, random forests, support vector machines (SVM), and k-nearest neighbor (KNN)
+## Hi buddies 👋
+### I'm a Student, Script writer, Data Science Learner
+
+- 🔭 I’m currently Data Science Student at VIT vellore
+- 🌱 I’m currently learning Excel for Data Science
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about soft skills
+- 📫 How to reach me: Instagram(@sadhu_the_lucky_lass)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Share our Knowledge
